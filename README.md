@@ -2,32 +2,36 @@
 
 # Hey there! 👋 I'm **Muhammad Faheem**
 
-### 🚀 Full Stack Developer | React Native & Web Enthusiast | 3D Web Explorer
+### 🤖 AI Engineer | Machine Learning & Generative AI | Building Intelligent Systems
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Muhammadfaheem8988&color=blueviolet&style=for-the-badge)](https://github.com/Muhammadfaheem8988)
 [![GitHub followers](https://img.shields.io/github/followers/Muhammadfaheem8988?style=for-the-badge&logo=github&color=236ad3)](https://github.com/Muhammadfaheem8988?tab=followers)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;React+Native+%7C+React+%7C+Node.js;3D+Web+with+Three.js+%26+R3F;Building+Pixel-Perfect+Experiences;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=AI+Engineer+%7C+ML+%26+Deep+Learning;Generative+AI+%7C+LLMs+%7C+NLP;Computer+Vision+%7C+Neural+Networks;Turning+Data+Into+Intelligence+%F0%9F%A7%A0;Always+Learning%2C+Always+Innovating+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-```javascript
-const faheem = {
-    pronouns: "he" | "him",
-    location: "🌍 Pakistan",
-    currentFocus: "Building immersive web & mobile experiences",
-    funFact: "I turn coffee into 3D websites ☕ → 🌐"
-};
+```python
+class MuhammadFaheem:
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.location = "🌍 Pakistan"
+        self.current_focus = "Generative AI, LLMs & Intelligent Agents"
+        self.passion = "Turning raw data into smart solutions"
+
+    def daily_routine(self):
+        return ["☕ Coffee", "📊 Data", "🧠 Model", "🚀 Deploy", "🔁 Repeat"]
 ```
 
-- 🔭 Currently working on **interactive 3D web applications**
-- 🌱 Continuously leveling up in **React Native, Three.js & Backend Architecture**
-- 💬 Ask me about **React, React Native, Node.js, MongoDB, 3D Web**
-- ⚡ Fun fact: I love blending **creativity with code** to build stunning UIs
+- 🔬 Currently exploring **LLMs, RAG Pipelines & AI Agents**
+- 🧪 Passionate about **Machine Learning, Deep Learning & Computer Vision**
+- 🏗️ Building **end-to-end AI solutions** — from data to deployment
+- 💬 Ask me about **Python, TensorFlow, PyTorch, LangChain, Hugging Face**
+- ⚡ Fun fact: I train models and they train my patience 😄
 
 ---
 
@@ -35,28 +39,38 @@ const faheem = {
 
 <div align="center">
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+### 🤖 AI / ML / DL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🧬 Generative AI & NLP
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### 📊 Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### ⚙️ Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -87,13 +101,21 @@ const faheem = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🧭 My AI Journey Roadmap
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Muhammadfaheem8988/Muhammadfaheem8988/output/github-snake-dark.svg)
-
-</div>
+```mermaid
+graph LR
+    A[📚 Math & Stats] --> B[🐍 Python Mastery]
+    B --> C[📊 Data Science]
+    C --> D[🤖 Machine Learning]
+    D --> E[🧠 Deep Learning]
+    E --> F[👁️ Computer Vision]
+    E --> G[💬 NLP & LLMs]
+    G --> H[🚀 Generative AI]
+    H --> I[🤝 AI Agents & RAG]
+    style H fill:#6C63FF,stroke:#333,stroke-width:2px,color:#fff
+    style I fill:#FF6B6B,stroke:#333,stroke-width:2px,color:#fff
+```
 
 ---
 
@@ -103,6 +125,7 @@ const faheem = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammadfaheem8988)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
@@ -111,7 +134,7 @@ const faheem = {
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+### 🧠 *"AI is not about replacing humans — it's about amplifying human potential."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
 
