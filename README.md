@@ -17,7 +17,7 @@ Turning hours of work into minutes using AI automation ⚡
 ---
 
 ## 🧠 About Me
-## 🚀 About Me
+
 - 🎯 Passionate about **AI engineering**, **machine learning**, and **data analysis**
 - 💼 Building real-world AI solutions that **automate human effort**
 - 🧠 Currently working on:
