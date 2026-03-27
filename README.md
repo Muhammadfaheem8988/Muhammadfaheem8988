@@ -22,7 +22,6 @@ Turning hours of work into minutes using AI automation ⚡
 - 💼 Building real-world AI solutions that **automate human effort**
 - 🧠 Currently working on:
   - **Smart Finance Tracker (ML-powered finance assistant)**
-  - **Speech-to-Text system** (AssemblyAI + Flutter)
   - **University MERN + Redis backend rebuild**
 - 📚 Love debugging and solving complex problems
 - 🌍 Dream: Change the world with AI-driven automation
@@ -59,7 +58,6 @@ class MuhammadFaheem:
 
 ### ⚙️ Backend & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🧰 Tools & Platforms
@@ -74,14 +72,17 @@ class MuhammadFaheem:
 ---
 ## 📌 Featured Projects
 
-### ⭐ Smart Finance Tracker (ML)
-A finance assistant predicting overspending, financial health, and offering actionable insights.
+### ⭐ [FinPak-A Smart Finance Tracker](https://github.com/finpak-ai/finpak-a-smart-finance-tracker)
+FinPak helps you record income & expenses, visualize spending trends, and get ML-powered insights such as overspending risk, predicted savings, financial health classification, and suggested areas to save.
 
-### ⭐ Speech-to-Text & Speaker Diarization (FastAPI + AssemblyAI)
+### ⭐ [Speech-to-Text & Speaker Diarization (FastAPI + AssemblyAI)](https://github.com/Muhammadfaheem8988/fastapi-transcriber-and-Speakers-Diarization)
 A production-ready back-end for audio transcription + speaker detection.
 
-### ⭐ Superstore Sales Analysis
+### ⭐ [Superstore Sales Analysis](https://github.com/Muhammadfaheem8988/Superstore-Sales-Data-Analysis)
 End-to-end data analysis using Python, NumPy, Pandas, and plotting insights.
+
+### ⭐ [GPA-Predictor-Deployment](https://github.com/Muhammadfaheem8988/GPA-Predictor-Deployment)
+An end-to-end Machine Learning web application built on mock data to predict GPA. I did this just to learn and test deployment
 
 ### ⭐ MERN + Redis University Website Backend
 High-performance backend with session management and scalable architecture.
